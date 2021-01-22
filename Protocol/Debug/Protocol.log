@@ -1,0 +1,8 @@
+﻿  Protocol.cpp
+C:\Users\artle\Desktop\Protocol\Protocol\Structs.h(4,1): warning C4005: ERROR: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(118): message : см. предыдущее определение "ERROR"
+C:\Users\artle\Desktop\Protocol\Protocol\Structs.h(5,1): warning C4005: NO_ERROR: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(220): message : см. предыдущее определение "NO_ERROR"
+C:\Users\artle\Desktop\Protocol\Protocol\Protocol.cpp(13,17): warning C4305: =: усечение из "double" в "float"
+C:\Users\artle\Desktop\Protocol\Protocol\Protocol.cpp(11,7): warning C4101: c: неиспользованная локальная переменная
+  Protocol.vcxproj -> C:\Users\artle\Desktop\Protocol\Debug\Protocol.exe
